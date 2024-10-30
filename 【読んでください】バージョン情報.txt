@@ -1,3 +1,5 @@
 Ver1.2 BGMのバグがある AIが賢くない
 
 Ver1.4 EnemyのSight Radiusを2500→5000に修正
+
+Ver1.5 EnemyのMax Walk Speedを600→800に修正
