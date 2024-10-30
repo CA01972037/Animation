@@ -1,1 +1,3 @@
 Ver1.2 BGMのバグがある AIが賢くない
+
+Ver1.4 EnemyのSight Radiusを2500→5000に修正
